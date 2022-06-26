@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stascapane
+- 👀 I’m interested in data sciences, statistics and analytics! I'm a journalist from germany just starting out in development and programming, and I already love it!
+- 🌱 I’m currently learning, well, everything. Or at least I'm trying to. I started with Python for analysing data and some (very basic) HTML, but I really want to understand as much as I can! 
+- 💞️ I’m looking to collaborate on data-driven storytelling. A journalists job is to see the stories noone else realizes are there, and I am convinced, that there are a <em>a lot</em> of interesting and important things to tell in numbers and code - there have just not been enough people looking. Or they looked in the wrong places.
+- 📫 How to reach me: Find me on Twitter <a href="https://twitter.com/cinnamonpancake">@cinnamonpancake</a> or <a href="mailto:sara.pichireddu@kstamedien.de">send me an Email!</a>
